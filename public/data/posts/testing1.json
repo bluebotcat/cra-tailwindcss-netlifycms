@@ -3,5 +3,9 @@
   "date": "2022-12-08T15:00:26.492Z",
   "title": "Tetsting 1",
   "body": "**Testing** \n\n\n\nOur mission is to organize the world’s information and make it universally accessible and useful.",
-  "slug": "testing1"
+  "slug": "testing1",
+    "tags": [
+    "tailwind",
+    "netlify"
+  ]
 }
