@@ -1,6 +1,6 @@
 {
-  "bgImage": "/upload/profile-background.jpg",
-  "profileImage": "/upload/profile-picture.jpg",
+  "bgImage": "https://images.unsplash.com/photo-1666535904626-9711b03e2aba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+  "profileImage": "/upload/dscf7920.jpg",
   "name": "Your Name",
   "jobTitle": "What you do",
   "location": "Your Location - 25.0000° N, 71.0000° W",
